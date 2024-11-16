@@ -1,0 +1,6 @@
+- nome e logo
+- sobre mim
+- projetos 
+- experiências  
+- contatos
+
